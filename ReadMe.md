@@ -1,0 +1,1 @@
+Created a calculator application. I got practice with javascript and css. Most part of this project was tutorial from Youtube. In the future I would be able to do it on my own since I got some knowledge on how to do it. 
